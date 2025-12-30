@@ -1,2 +1,3 @@
 # my-project
-hello, this is my first experience with it
+hello, how are you.
+my first project
